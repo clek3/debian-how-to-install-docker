@@ -1,2 +1,7 @@
 # debian-how-to-install-docker
-how to install docker on Debian Jessie
+How to install docker on Debian Jessie ?
+
+Execute this command line :
+```
+curl -sSL https://get.docker.com/ | sh
+```
